@@ -8,7 +8,7 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: make an discussion on [leahcimto/leahcimto](https://github.com/leahcimto/leahcimto/discussions). Ask [here](https://github.com/leahcimto/leahcimto/discussions?discussions_q=category%3ARequests) to request discord info. (You will only be told if you are trusted)
 - 😄 Pronouns: he/him or they/them
-- 💻 Webisite: [leahcimto.github.io](leahimto.github.io)
+- 💻 Webisite: [leahcimto.github.io](https://leahimto.github.io)
 - ⚡ Fun fact: I got my username by spelling my real name (Michael) backwards and adding two random letters.
 
 ### My stats 📈
