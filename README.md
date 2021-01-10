@@ -6,8 +6,7 @@
 - 🔭 I’m currently working on my website because it's kinda empty, and updating the forum helpers website. On Scratch, I am a SDS helper meaning I help add projects to the current SDS (blending in)
 - 🌱 I’m currently learning HTML and CSS, and a small bit of JS
 - 💬 Ask me about anything!
-- 📫 How to reach me: make an discussion on [leahcimto/leahcimto](https://github.com/leahcimto/leahcimto/discussions). Ask [here](https://github.com/leahcimto/leahcimto/discussions?discussions_q=category%3ARequests) to request discord info. (You will only be told if you are trusted)
-- 😄 Pronouns: he/him or they/them
+- 📫 How to reach me: make an discussion on [leahcimto/leahcimto](https://github.com/leahcimto/leahcimto/discussions). Discord information is only avalable upon request, you can ask [here](https://github.com/leahcimto/leahcimto/discussions?discussions_q=category%3ARequests).
 - 💻 Webisite: [leahcimto.github.io](https://leahcimto.github.io)
 - ⚡ Fun fact: I got my username by spelling my real name (Michael) backwards and adding two random letters.
 
