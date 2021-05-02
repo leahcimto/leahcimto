@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on my website because it's kinda empty, and updating the forum helpers website. On Scratch, I help on the forums a bit and help in the forum helper's studio. I also am a SWC Reviewer, meaning I review projects before they can be added to the main SWC studio.
 - 🌱 I’m currently learning HTML and CSS, and a small bit of JS
 - 💬 Ask me about anything!
-- 📫 How to reach me: make an discussion on [leahcimto/leahcimto](https://github.com/leahcimto/leahcimto/discussions).
+- 📫 How to reach me: make an discussion on [leahcimto/leahcimto](https://github.com/leahcimto/leahcimto/discussions) or click [here](mailto:me@leahcimto.com).
 - 💻 Webisite: still working on it
 - ⚡ Fun fact: I got my username by spelling my real name (Michael) backwards and adding two random letters.
 
