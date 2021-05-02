@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning HTML and CSS, and a small bit of JS
 - 💬 Ask me about anything!
 - 📫 How to reach me: make an discussion on [leahcimto/leahcimto](https://github.com/leahcimto/leahcimto/discussions) or click [here](mailto:me@leahcimto.com).
-- 💻 Webisite: still working on it
+- 💻 Website: www.leahcimto.com
 - ⚡ Fun fact: I got my username by spelling my real name (Michael) backwards and adding two random letters.
 
 ### My stats 📈
