@@ -13,4 +13,4 @@
 ### My stats 📈
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leahcimto&show_icons=true&theme=prussian&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leahcimto&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leahcimto&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
